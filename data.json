@@ -2,8 +2,196 @@
   "source": "https://github.com/xinyangli-326/2027qiuzhao",
   "rev": "20260910-e",
   "sourceUpdated": "2026-09-10",
-  "syncedAt": "2026-09-11T12:36:13+08:00",
+  "syncedAt": "2026-09-11T13:55:28+08:00",
+  "catalogUpdated": "2026-09-11",
+  "websites": [
+    {
+      "name": "食品人才中心（食品伙伴网）",
+      "category": "食品专业",
+      "url": "https://www.foodmate.cn/",
+      "note": "食品研发、品控、检测、实习；部分岗位要求工作经验。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "牧通人才网",
+      "category": "食品专业",
+      "url": "https://www.xumurc.com/",
+      "note": "农牧、饲料、水产、宠物；重点查食品加工、营养与品管岗位。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "国家大学生就业服务平台",
+      "category": "公共就业",
+      "url": "https://www.ncss.cn/",
+      "note": "搜索食品、质量、营养、发酵及2027届，查询招聘公告和实习岗位。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "国聘",
+      "category": "公共就业",
+      "url": "https://www.iguopin.com/",
+      "note": "国资央企、粮食与农业企业；按届别与学历筛选。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "智联招聘",
+      "category": "综合招聘",
+      "url": "https://www.zhaopin.com/",
+      "note": "食品研发、生产、品控、供应链；区分社招、校招与实习。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "前程无忧",
+      "category": "综合招聘",
+      "url": "https://www.51job.com/",
+      "note": "综合职位与企业校招专题；注意专题的真实年份。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "应届生求职网",
+      "category": "校招与实习",
+      "url": "https://www.yingjiesheng.com/",
+      "note": "校招公告、宣讲会和实习；回到原公告确认日期。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "BOSS直聘",
+      "category": "综合招聘",
+      "url": "https://www.zhipin.com/",
+      "note": "搜索食品应届生、食品实习、质检；需登录查看部分信息。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "猎聘",
+      "category": "综合招聘",
+      "url": "https://www.liepin.com/",
+      "note": "企业职位与校招信息，筛选经验不限或应届生。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "实习僧",
+      "category": "校招与实习",
+      "url": "https://www.shixiseng.com/",
+      "note": "食品、营养、研发助理、供应链实习。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "牛客招聘",
+      "category": "校招与实习",
+      "url": "https://www.nowcoder.com/jobs",
+      "note": "校招信息及讨论；非官方线索需回到招聘官网核实。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "江南大学就业信息网",
+      "category": "高校就业",
+      "url": "https://jiuye.jiangnan.edu.cn/",
+      "note": "食品、生物与发酵相关企业；部分功能需校内账号。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "天津科技大学就业网",
+      "category": "高校就业",
+      "url": "https://jy.tust.edu.cn/",
+      "note": "食品、生物、发酵、包装与轻工招聘公告。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "南开大学就业网",
+      "category": "高校就业",
+      "url": "https://career.nankai.edu.cn/",
+      "note": "企业发布的校园招聘简章与宣讲信息。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "天津商业大学就业网",
+      "category": "高校就业",
+      "url": "https://career.tjcu.edu.cn/",
+      "note": "食品、商业与供应链企业招聘公告。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "华南农业大学就业创业网",
+      "category": "高校就业",
+      "url": "https://jyzx.scau.edu.cn/",
+      "note": "食品、农牧、水产及生物行业招聘公告。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "南方科技大学就业网",
+      "category": "高校就业",
+      "url": "https://career.sustech.edu.cn/",
+      "note": "检测认证、研发技术类企业招聘。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "西北农林科技大学食品学院",
+      "category": "高校就业",
+      "url": "https://food.nwafu.edu.cn/",
+      "note": "食品学院就业动态及企业招聘信息。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "北京工商大学食品与健康学院",
+      "category": "高校就业",
+      "url": "https://spxy.btbu.edu.cn/",
+      "note": "食品、健康与相关行业招聘及宣讲动态。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "暨南大学就业网",
+      "category": "高校就业",
+      "url": "https://scdc.jnu.edu.cn/",
+      "note": "校园招聘与宣讲，补充食品零售及供应链机会。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "牛企直聘",
+      "category": "校招聚合",
+      "url": "https://campus.niuqizp.com/",
+      "note": "作为检索线索；部分页面标题年份与正文届别不同，务必核对正文。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "超级简历校招",
+      "category": "校招聚合",
+      "url": "https://www.wondercv.com/xiaozhao/",
+      "note": "作为补充检索线索，投递前核实官方原公告。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "鼠鼠求职",
+      "category": "校招聚合",
+      "url": "https://www.shushuqiuzhi.com/",
+      "note": "聚合实习与校招线索；当前状态以企业职位页为准。",
+      "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "2027qiuzhao项目",
+      "category": "校招聚合",
+      "url": "https://github.com/xinyangli-326/2027qiuzhao",
+      "note": "原始实时同步源；与本站补充目录合并去重。",
+      "checkedAt": "2026-09-11"
+    }
+  ],
   "rows": [
+    {
+      "cat": "",
+      "date": "2026-09-09",
+      "roles": "饮品开发、茶叶基地品保、农业原料品保、发酵技术",
+      "note": "养生堂集团2027秋招中的食品与饮料相关方向：饮品开发多为硕博，部分品保与发酵岗位本硕；研发主要在杭州。集团万泰的医学岗位不等同于食品专业岗位。",
+      "portal": "https://jobs.yst.com.cn/campus",
+      "source": "https://career.tjcu.edu.cn/correcruit/content/id/14383.html",
+      "company": "农夫山泉",
+      "industry": "非乳饮料",
+      "industries": [
+        "非乳饮料"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "id": "b4b2b580ffbe06a5"
+    },
     {
       "company": "百威中国（百威英博）",
       "cat": "快消",
@@ -12,7 +200,12 @@
       "note": "2027管理培训生项目9月8日启动，面向有潜力应届生",
       "portal": "公众号：百威中国招聘",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "酒类",
+      "industries": [
+        "酒类"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "5f75b9cd64dbace0"
     },
     {
@@ -24,18 +217,49 @@
       "portal": "公众号：加入百胜",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "fec60523b59a1054"
     },
     {
-      "company": "达能（中国）",
-      "cat": "快消",
+      "cat": "",
       "date": "2026-09-07",
-      "roles": "职能管培生（市场营销、商务/电商、研发、医学市场、营运/制造/质量等方向）、医药管培生",
-      "note": "2027达能管培生9月7日启动：职能管培生base上海/广州/武汉/唐山/邛崃等，医药管培生（纽迪希亚医学营养）base北京/广州/杭州/南京；面向2025年1月-2027年7月毕业，网申截止10月31日",
-      "portal": "https://app.mokahr.com/campus-recruitment/danone/170511?locale=zh-CN#/jobs ｜ 公众号：达能招聘",
-      "source": "",
-      "industry": "乳业饮品",
+      "roles": "研发管培生、营运/区域质量管培生、医学市场、商务管培生",
+      "note": "2027职能管培涵盖食品研发、制造与质量方向，业务包括饮料、生命早期营养、成人医学营养。职能项目面向2025年1月至2027年7月毕业的本科及以上；医药项目有独立医学药学要求，不能视作所有食品专业均符合。公告明确网申截止2026-10-31。",
+      "portal": "https://career.hebut.edu.cn/home/correcruit/content/id/80194.html",
+      "source": "https://career.hebut.edu.cn/home/correcruit/content/id/80194.html",
+      "company": "达能（中国）",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品",
+        "非乳饮料",
+        "营养健康"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "deadline": "2026-10-31",
       "id": "1bb39490b08bc5b6"
+    },
+    {
+      "cat": "",
+      "date": "2026-09-07",
+      "roles": "研发管培、品保管培、产品管培、计划管培、营销管培",
+      "note": "2027思创生；本科及以上，研发方向硕士优先。食品科学、生物、化学、营养等相关专业；研发、品保等在郑州，营销面向全国。邮箱 sichuang@synear.com。",
+      "portal": "https://synear2027.zhaopin.com/",
+      "source": "https://career.nankai.edu.cn/correcruit/content/id/118052.html",
+      "company": "思念食品",
+      "industry": "速冻与预制",
+      "industries": [
+        "速冻与预制"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "id": "f89c499dce2489ec"
     },
     {
       "company": "梅花集团",
@@ -45,7 +269,12 @@
       "note": "梅花集团发布2027届通辽梅花校园招聘，招聘方向涵盖淀粉、氨基酸、苏氨酸、供热站、味精、合成氨六类生产管培生，投递方式为扫描原文二维码。",
       "portal": "https://j8fq0c3gg7.jobs.feishu.cn/905946",
       "source": "",
-      "industry": "粮油调味",
+      "industry": "原料配料",
+      "industries": [
+        "原料配料"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "1b20f2fadf95bb64"
     },
     {
@@ -56,7 +285,12 @@
       "note": "时隔两年重启校招；网申9月5日启动，销售和市场/支持职能9月30日截止、其余10月14日截止，AI视频面试10月中下旬；入口以“玛氏校园在线”公众号为准",
       "portal": "https://careers.mars.com/cn/zh",
       "source": "",
-      "industry": "食品制造",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "d1559924604bf390"
     },
     {
@@ -67,18 +301,29 @@
       "note": "中国飞鹤2027届校园招聘正式启动，推出F星计划，面向2026-2027届国内外毕业生，招聘食品、机械、电气、农业等专业人才。飞鹤始建于1962年，拥有14个智能工厂和15个自有牧场，为入选者提供系统化培养与专属晋升路径，打造集团未来中坚力量。",
       "portal": "https://www.feihe.com/about/joinUs/",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "64f02e527061c576"
     },
     {
+      "cat": "",
+      "date": "2026-09-04",
+      "roles": "2027全球校园招聘（各岗位见公告）",
+      "note": "食品学院公告注明来自海天味业招聘官网。与注塑机等工业业务的“海天集团”分别辨认；完整岗位与报名二维码见公告图片。",
+      "portal": "https://food.nwsuaf.edu.cn/zhdt/jyxx/d3f3be3662f3441d921f1f2b6e3a2772.htm",
+      "source": "https://food.nwsuaf.edu.cn/zhdt/jyxx/d3f3be3662f3441d921f1f2b6e3a2772.htm",
       "company": "海天味业",
-      "cat": "快消",
-      "date": "2026-09-03",
-      "roles": "全球营销、设计研发、制造技术、生产运控等（27届）",
-      "note": "海天味业2027全球校招9月3日正式启动，线上测评/AI面试9月上旬起、线下面试9月下旬；base佛山等",
-      "portal": "https://haday.hotjob.cn ｜ 公众号：海天味业招聘（加入海天-校园招聘）",
-      "source": "",
-      "industry": "粮油调味",
+      "industry": "调味品",
+      "industries": [
+        "调味品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
       "id": "47c958dedacd8cd3"
     },
     {
@@ -89,7 +334,12 @@
       "note": "神农集团2027届秋季校园招聘正式启动，面向全国多地开放养殖生产、饲料生产、食品生产、食品研发、职能管理、工程设备、市场营销等多个方向，薪资范围为8W~15W。报名方式为线上/线下，并设有相关活动与互动福利安排。",
       "portal": "https://www.ynsnjt.com/zpjh",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "4ecc2ce1370a77e5"
     },
     {
@@ -100,7 +350,12 @@
       "note": "管培生岗位9月初在高校就业平台更新，流程含网申/测评；投递走公众号“认养一头牛驿站”或官网",
       "portal": "https://www.ryytn.com",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "30a081330a9cc1cc"
     },
     {
@@ -111,7 +366,12 @@
       "note": "金徽酒股份有限公司宣布启动2027届秋季校园招聘，面向2027届毕业生，具体岗位及细节待官方发布。",
       "portal": "https://www.jinhuijiu.com/people/index.html",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "酒类",
+      "industries": [
+        "酒类"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "14d85a7f047283dd"
     },
     {
@@ -122,8 +382,36 @@
       "note": "9月3日官宣启动，每人限投2个岗位，投递截止11月30日",
       "portal": "https://app.mokahr.com/campus-recruitment/nestlegcr",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "食品综合",
+      "industries": [
+        "食品综合"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "c8611dbfbcfe0bed"
+    },
+    {
+      "cat": "",
+      "date": "2026-09-03",
+      "roles": "食品发酵研发、营养品研发、食品原料研发、餐饮调味研发、工艺技术、销售",
+      "note": "2027校园招聘；食品科学、食品质量与安全、生物发酵等专业。研发岗位多要求硕士或博士，部分工艺岗位本科起；地点以宜昌及各基地为准。原公告未列统一截止日期。",
+      "portal": "邮箱：hr@angelyeast.com（主题：岗位+姓名+学历）",
+      "source": "https://jy.tust.edu.cn/correcruit/content/id/46326.html",
+      "company": "安琪集团",
+      "industry": "原料配料",
+      "industries": [
+        "原料配料",
+        "调味品",
+        "营养健康"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "安琪酵母",
+        "安琪酵母股份有限公司"
+      ],
+      "id": "4411e563e98450ad"
     },
     {
       "company": "牧原股份",
@@ -133,8 +421,70 @@
       "note": "2027届全球校园招聘9月2日官宣启动（6月提前批先行），面向2027届毕业生；农牧食品龙头，职能/技术岗位分通道网申；投递走官方公众号校招入口",
       "portal": "公众号：牧原招聘（2027届校招网申）",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "fb8c2bb73f15d5e9"
+    },
+    {
+      "cat": "",
+      "date": "2026-09-02",
+      "roles": "食品研发、质量管理、管培生（以原公告为准）",
+      "note": "西南大学发布2027校招通知；东北农业大学宣讲信息转载中含2027届招聘简章。研发、质量、食品加工等方向按具体学历要求投递。转载来源：https://www.wondercv.com/xiaozhao/green-lotus-food-2027-campus-recruitment-14101-39163f/ 。",
+      "portal": "https://my.yingjiesheng.com/xjh-006-276-016.html",
+      "source": "https://rcxq.swu.edu.cn/info/1142/7601.htm",
+      "company": "青莲食品",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "浙江青莲食品股份有限公司"
+      ],
+      "id": "b1e9b5e1211cc720"
+    },
+    {
+      "cat": "",
+      "date": "2026-09-02",
+      "roles": "食品生产储备干部、食品销售储备干部、饲料生产管理",
+      "note": "公告标题的2026指招聘发生年份，正文明确面向2027届。食品生产岗要求食品科学与工程、食品质量与安全；饲料生产管理接受食品工程等专业。平台展示到期时间不当作企业网申截止日。",
+      "portal": "公众号“德康头条”→德康招聘→校园招聘",
+      "source": "https://job.henu.edu.cn/module/position_brief_detail/id-113778/nid-10822",
+      "company": "德康集团",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "四川德康农牧食品集团股份有限公司"
+      ],
+      "id": "b819778fb102ae14"
+    },
+    {
+      "cat": "",
+      "date": "2026-09-01",
+      "roles": "星动力校园招聘（各岗位见公告）",
+      "note": "西北农林科技大学食品学院发布2027星动力校招原图。进入公告查看岗位、专业及扫码报名方式。",
+      "portal": "https://food.nwsuaf.edu.cn/zhdt/jyxx/d2c187e1703b4540b9bcf3772ab57949.htm",
+      "source": "https://food.nwsuaf.edu.cn/zhdt/jyxx/d2c187e1703b4540b9bcf3772ab57949.htm",
+      "company": "蒙牛",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "id": "d1aae59ceaec8fff"
     },
     {
       "company": "东方希望",
@@ -144,7 +494,12 @@
       "note": "东方希望集团2027届秋季校园招聘启动，面向2027届应届毕业生，热招重工、农牧、饲料等方向，工作地点覆盖国内多区域及海外。",
       "portal": "https://www.easthope.cn/",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "8655881fa8a6185b"
     },
     {
@@ -156,6 +511,11 @@
       "portal": "",
       "source": "",
       "industry": "食品零售",
+      "industries": [
+        "食品零售"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "87c53de41cc946cf"
     },
     {
@@ -166,7 +526,12 @@
       "note": "洽洽食品2027届校招9月1日启动（网申即日起至2027/6/30），base合肥及全国/海外",
       "portal": "https://mp.weixin.qq.com/s/EsNe0LRW8ZxkdlizcHAv7A ｜ 公众号：洽洽食品招聘",
       "source": "",
-      "industry": "食品制造",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "858bc942434436e6"
     },
     {
@@ -177,7 +542,12 @@
       "note": "生猪养殖/饲料集团（中国企业500强）2027届校招8月底-9月初启动，面向2027届毕业生；投递走集团官网或公众号校招入口",
       "portal": "https://www.sbtjt.com ｜ 公众号：双胞胎集团招聘",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "585d351c40c13203"
     },
     {
@@ -188,7 +558,12 @@
       "note": "康师傅2027届校招8月31日官宣启动（9/3起各校转发），网申至10月底；销售/市场/电商向岗位适合投递",
       "portal": "https://wecruit.hotjob.cn/SU691abf70e3842960d1989b29/pb/school.html",
       "source": "",
-      "industry": "食品制造",
+      "industry": "食品综合",
+      "industries": [
+        "食品综合"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "0ae62147b36ef2c6"
     },
     {
@@ -199,8 +574,34 @@
       "note": "网申8月31日-10月12日，9月3日起在线测评；中国区入口以“联合利华招聘”公众号指引为准",
       "portal": "https://careers.unilever.com",
       "source": "",
-      "industry": "食品制造",
+      "industry": "食品综合",
+      "industries": [
+        "食品综合"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "3b767d3a6447d725"
+    },
+    {
+      "cat": "",
+      "date": "2026-08-31",
+      "roles": "质优生：化学测试技术专家、包装材料法规与可持续技术支持",
+      "note": "2027质优生公告明确包含食品与生物类硕博、CET-6；化学测试专家要求博士，包装法规岗位硕士起。先打开公告中的网申链接，再按食品相关实验室筛选，集团其他岗位不都接受食品专业。",
+      "portal": "https://career.sustech.edu.cn/detail/online?id=3591477",
+      "source": "https://career.sustech.edu.cn/detail/online?id=3591477",
+      "company": "SGS通标",
+      "industry": "检测认证",
+      "industries": [
+        "检测认证"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "SGS",
+        "SGS通标标准技术服务有限公司"
+      ],
+      "id": "1af079e938b4a8ec"
     },
     {
       "company": "老乡鸡",
@@ -211,7 +612,33 @@
       "portal": "https://lxjchina1.zhiye.com/campus",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "4b292a82915b97b1"
+    },
+    {
+      "cat": "",
+      "date": "2026-08-29",
+      "roles": "功能性食品/保健食品研发研究员、集团管培生",
+      "note": "2027秋招中研究员明确包含保健食品、功能性食品工艺开发，接受食品科学与工程硕士；集团管培生也接受食品相关硕博。地点河北邯郸，邮箱hr@hanyao.com.cn。仅此类明确匹配岗位收录，不将制药企业归为乳品或泛食品制造。",
+      "portal": "https://hanyao.zhiye.com/campus/jobs",
+      "source": "https://job.hust.edu.cn/zpinfo1/2409266.htm",
+      "company": "邯郸制药",
+      "industry": "医药与生物",
+      "industries": [
+        "医药与生物",
+        "营养健康"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "邯郸制药股份有限公司"
+      ],
+      "id": "39ae095f3fe6d627"
     },
     {
       "company": "万辰集团",
@@ -222,6 +649,11 @@
       "portal": "http://job.vanchen.com",
       "source": "https://mp.weixin.qq.com/s/lnnyeXD-5CrMlrKaLAaOaQ",
       "industry": "食品零售",
+      "industries": [
+        "食品零售"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "6a504cbcf0817828"
     },
     {
@@ -232,7 +664,12 @@
       "note": "白酒/保健酒企业2027届校招启动（全国/黄石/武汉/海外），含财务投资与职能岗",
       "portal": "https://jingpai.zhiye.com/campus/jobs",
       "source": "https://mp.weixin.qq.com/s/hqLGgkM65ZoGbOJLQakZdg",
-      "industry": "乳业饮品",
+      "industry": "酒类",
+      "industries": [
+        "酒类"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "1b21e707eea455be"
     },
     {
@@ -244,6 +681,11 @@
       "portal": "邮箱：bnzp@banu.cn ｜ 公众号：巴奴招聘",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "3b9edca8cab71ad4"
     },
     {
@@ -255,6 +697,11 @@
       "portal": "邮箱：yuehuolihhr@163.com",
       "source": "https://mp.weixin.qq.com/s/G9wEKuKD8Ehhk8zHU0pyLA",
       "industry": "食品零售",
+      "industries": [
+        "食品零售"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "28f290a0be9d3111"
     },
     {
@@ -265,7 +712,12 @@
       "note": "烘焙食品龙头2027届秋季校招启动，覆盖呼和浩特/沈阳/哈尔滨/上海/南京/青岛等",
       "portal": "https://doc.weixin.qq.com/forms/AM4AigdrAAwAUYAhAYlAOoCNCZmdxfyFf#/blankpage?type=blank",
       "source": "https://mp.weixin.qq.com/s/EM7ipoSdF08xrHn_heSP1A",
-      "industry": "食品制造",
+      "industry": "烘焙食品",
+      "industries": [
+        "烘焙食品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "886e5a4613e442e4"
     },
     {
@@ -276,30 +728,30 @@
       "note": "零食电商品牌2027届校招启动（杭州），覆盖产品/运营/职能多方向",
       "portal": "https://app.mokahr.com/campus-recruitment/vipbcw/4343?locale=zh-CN#/jobs",
       "source": "https://mp.weixin.qq.com/s/QPAQrwzdNECWvzp8l8K_FQ",
-      "industry": "食品制造",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "701a98ce9cdef5d7"
     },
     {
+      "cat": "",
+      "date": "2026-08-28",
+      "roles": "销售管培生（门店运营方向）",
+      "note": "2027届本科及以上，食品、营销、管理相关专业优先；西安、哈尔滨、长春、沈阳等地门店运营。此条为运营方向，不是食品研发岗位。",
+      "portal": "https://51uns.bysjy.com.cn/Announce/Details/3541354?schoolCode=10708",
+      "source": "https://51uns.bysjy.com.cn/Announce/Details/3541354?schoolCode=10708",
       "company": "米旗公司",
-      "cat": "快消",
-      "date": "2026-08-28",
-      "roles": "多岗（以官网为准）",
-      "note": "米旗公司2027届校园招聘正式启动，面向2027届本科及以上学历毕业生，招聘销售管培生（门店运营方向），工作地点覆盖西安、哈尔滨、长春、沈阳。",
-      "portal": "https://www.makyshop.com.cn/invite",
-      "source": "",
-      "industry": "食品制造",
+      "industry": "烘焙食品",
+      "industries": [
+        "烘焙食品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
       "id": "8373bea628d1c372"
-    },
-    {
-      "company": "蒙牛",
-      "cat": "快消",
-      "date": "2026-08-28",
-      "roles": "管培生（未来星等：销售/市场/电商/供应链方向）",
-      "note": "8月28日起网申、招满即止；2027「星动力」/管培生多项目并行",
-      "portal": "https://mengniu.zhiye.com/custom/xiaoyuan",
-      "source": "",
-      "industry": "乳业饮品",
-      "id": "d1aae59ceaec8fff"
     },
     {
       "company": "朴朴（朴朴超市）",
@@ -310,6 +762,11 @@
       "portal": "https://jobs.pupumall.net/recruit-h5app/candidate/school/home?frontRecruitType=SCHOOL",
       "source": "",
       "industry": "食品零售",
+      "industries": [
+        "食品零售"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "574de1ce59dff768"
     },
     {
@@ -320,8 +777,30 @@
       "note": "200+岗位，流程含在线测评/AI面试，网申截止10月25日；投递走“卫龙美味招聘”公众号",
       "portal": "https://weilongmeiwei.jobs.feishu.cn/439244 ｜ 公众号：卫龙美味招聘",
       "source": "",
-      "industry": "食品制造",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "c27fbf22e00cd19f"
+    },
+    {
+      "cat": "",
+      "date": "2026-08-26",
+      "roles": "2027届校园招聘（具体方向见官方公告）",
+      "note": "西北农林食品学院与港中大深圳就业网均发布2027校招。港中大页面提供企业公众号原文；招聘对象包含2025—2027届。需从原公告确认各岗位专业与报名方式。",
+      "portal": "https://career.cuhk.edu.cn/job/view/id/469083",
+      "source": "https://food.nwsuaf.edu.cn/zhdt/jyxx/0b2930de36c64def8d33c959ccc08e67.htm",
+      "company": "嘉士伯中国",
+      "industry": "酒类",
+      "industries": [
+        "酒类"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "id": "bf8d8b16392ea152"
     },
     {
       "company": "大北农食品集团",
@@ -331,8 +810,33 @@
       "note": "大北农集团旗下食品板块2027届校招8月下旬正式启动，热招管理培训生；网申/邮箱/扫码均可投递",
       "portal": "https://www.dhn.com.cn ｜ 公众号：大北农食品集团",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "5935290fe72b2db4"
+    },
+    {
+      "cat": "",
+      "date": "2026-08-25",
+      "roles": "食品研发、品控、化验、食品生产现场管理、管培生",
+      "note": "第三方转载2027秋招，食品相关方向包括研发、品控、化验、食品生产及管培。地点烟台、潍坊、上海；完整企业原公告和当前开放状态仍需复核。",
+      "portal": "https://www.wondercv.com/xiaozhao/xiantan-group-2027-autumn-campus-recruitment-13066-433981/",
+      "source": "https://www.wondercv.com/xiaozhao/xiantan-group-2027-autumn-campus-recruitment-13066-433981/",
+      "company": "仙坛集团",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "announcement",
+      "sourceType": "校招聚合（待企业复核）",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "山东仙坛集团股份有限公司"
+      ],
+      "id": "9b2ecf3085dcbf6e"
     },
     {
       "company": "双汇（领英汇/群英汇）",
@@ -342,7 +846,12 @@
       "note": "肉制品龙头2027届校招岗位8月下旬上线，面向2026/2027届毕业生；base漯河为主；投递走“双汇招聘”公众号及双汇校招官网",
       "portal": "公众号：双汇招聘（校招官网一键投递）",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "adfe06e39a0d2804"
     },
     {
@@ -353,7 +862,12 @@
       "note": "全球农牧饲料龙头2027届校招8月中下旬正式启动、简历投递至2027年6月30日；面向海内外2027届毕业生；官方公众号有详细推文与岗位入口",
       "portal": "https://haid1.zhiye.com/campus/jobs ｜ 公众号：海大招聘",
       "source": "https://mp.weixin.qq.com/s/z-DWF8-Ca5sf_aqM2nWMJQ",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "16f0d6d49e86fb77"
     },
     {
@@ -364,7 +878,12 @@
       "note": "八马茶业27秋招 八马茶业已开启2027届秋季校园招聘，具体岗位信息尚未公布，请持续关注官方渠道。 招聘对象 - 2027届应届毕业生（具体学历要求待岗位发布后确认）",
       "portal": "https://www.bamatea.com/",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "茶叶",
+      "industries": [
+        "茶叶"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "237e8facb65a1c1d"
     },
     {
@@ -375,7 +894,12 @@
       "note": "通威农发2027届秋季校园招聘，面向2027届毕业生，提供多个岗位。",
       "portal": "https://rctapp.tongwei.com:8553/?type=recruit&emplid=105",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "f82b8824a4d6cb3a"
     },
     {
@@ -386,7 +910,12 @@
       "note": "雪川农业集团2027届全球校园招聘正式启动，面向全球2027届海内外高校毕业生（2025、2026届亦可投递），提供集团管培生、体系管培生、新生力三大人才发展项目，工作地点覆盖北京、上海、河北、山东、甘肃、内蒙古、新疆等地。",
       "portal": "https://snowvalleyfood.zhiye.com/form",
       "source": "",
-      "industry": "食品制造",
+      "industry": "速冻与预制",
+      "industries": [
+        "速冻与预制"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "8bb89ecf6551a2c2"
     },
     {
@@ -398,6 +927,11 @@
       "portal": "公众号：蜜雪冰城招聘（2027大咖国际校招菜单）",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "8f2042eab9d15347"
     },
     {
@@ -408,7 +942,12 @@
       "note": "液态奶等事业部8月中旬起陆续开放；流程含AI面试、网测",
       "portal": "https://www.hotjob.cn/wt/yili/mobweb/recruit/eleySchool",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "ae51148ea3a6405d"
     },
     {
@@ -420,6 +959,11 @@
       "portal": "https://comewonka.zhiye.com/campus",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "2f6a3f80892f4c8a"
     },
     {
@@ -430,7 +974,12 @@
       "note": "农牧食品龙头2027届校园招聘正式启动",
       "portal": "https://mp.weixin.qq.com/s/4r82YEfMv3ADYDAili-30w",
       "source": "",
-      "industry": "食品制造",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "079ce03536cd607f"
     },
     {
@@ -441,7 +990,12 @@
       "note": "加多宝集团2027届校园招聘正式启动，面向2027届应届生招聘销售管培生、推广管培生、机电管培生等岗位，工作地点覆盖全国多个城市，提供有竞争力的薪酬和定制化培养体系。",
       "portal": "https://jdbchina.zhiye.com/home",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "非乳饮料",
+      "industries": [
+        "非乳饮料"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "bfc80ada914cc202"
     },
     {
@@ -453,6 +1007,11 @@
       "portal": "公众号：瑞幸咖啡招聘（校园招聘-储备店长，按城市投递）",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "268d99ac6debb8a0"
     },
     {
@@ -464,29 +1023,12 @@
       "portal": "https://campus.tasiting.com ｜ 公众号：塔斯汀招聘",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "f91106f326893dd0"
-    },
-    {
-      "company": "元气森林",
-      "cat": "快消",
-      "date": "2026-07-28",
-      "roles": "品牌经理、数字营销、内容（创新体系）；销售培训生",
-      "note": "创新体系简历投递7月28日起、8月7日线上笔试；销售培训生另设项目；面向2026.12-2027.7毕业",
-      "portal": "https://www.yuanqisenlin.com",
-      "source": "",
-      "industry": "乳业饮品",
-      "id": "7a47744412d0cfab"
-    },
-    {
-      "company": "农夫山泉",
-      "cat": "快消",
-      "date": "2026-07-16",
-      "roles": "行销校招生（营销/销售方向）",
-      "note": "养生堂·农夫山泉·万泰生物联招；「堂堂新生」计划流程含AI面试，网申7月16日开启",
-      "portal": "https://jobs.yst.com.cn/campus",
-      "source": "",
-      "industry": "乳业饮品",
-      "id": "b4b2b580ffbe06a5"
     },
     {
       "company": "可口可乐饮料",
@@ -496,8 +1038,34 @@
       "note": "2027校园招聘7月13日启动（可口可乐饮料上海）；产品/市场类岗位需在官网按职能筛选",
       "portal": "https://www.coca-colacompany.com",
       "source": "",
-      "industry": "乳业饮品",
+      "industry": "非乳饮料",
+      "industries": [
+        "非乳饮料"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "bf37a480c3dadc6c"
+    },
+    {
+      "cat": "",
+      "date": "2026-06-29",
+      "roles": "品保实习生、生产实习生",
+      "note": "发布于2026年的公告正文明确实习面向2027届，大专起；品保优先食品、化工、检验、生物。地点昆明，需倒班。地方招聘平台发布，公告较早、未提供截止日期，当前余岗需联系企业确认。",
+      "portal": "邮箱：zhaochaohuan@pec.com.cn、lilixian@pec.com.cn（主题：姓名+岗位）",
+      "source": "https://www.kmzpw.cn/info/4524",
+      "company": "昆明统一企业食品",
+      "industry": "食品综合",
+      "industries": [
+        "食品综合",
+        "非乳饮料"
+      ],
+      "kind": "internship",
+      "sourceType": "地方招聘平台",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "昆明统一企业食品有限公司"
+      ],
+      "id": "669533d98898d9b5"
     },
     {
       "company": "麦当劳中国",
@@ -508,7 +1076,656 @@
       "portal": "https://storehire.mcdonalds.com.cn/apply/mcdchina ｜ 麦当劳招聘官网餐厅/菁英管培生入口",
       "source": "",
       "industry": "餐饮茶饮",
+      "industries": [
+        "餐饮茶饮"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
       "id": "b4be9e6771d6e5ed"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "供应链校招生：生产轮岗、在线品控、质量检验、食品安全、供应链计划",
+      "note": "高校宣讲正文明确面向2027届本科及以上，接受食品科学与质量、机械电气、供应链等方向。全国7个生产基地；岗位包含轮岗及现场工作，按原公告确认地点和投递方式。",
+      "portal": "https://jy.gcc.edu.cn/web/Index/preach-detail?id=5853",
+      "source": "https://jy.gcc.edu.cn/web/Index/preach-detail?id=5853",
+      "company": "元气森林",
+      "industry": "非乳饮料",
+      "industries": [
+        "非乳饮料"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "id": "7a47744412d0cfab"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官方加入我们入口，按所属生产基地查看职位。",
+      "portal": "https://www.anjoyfood.com/en_US/recruitment/pages",
+      "source": "https://www.anjoyfood.com/en_US/recruitment/pages",
+      "company": "安井食品",
+      "industry": "速冻与预制",
+      "industries": [
+        "速冻与预制"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "5712d714cffe8862"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网校园招聘系统；营养健康、婴幼儿营养业务，需区分届别。",
+      "portal": "https://hhgroup.hotjob.cn/",
+      "source": "https://hhgroup.hotjob.cn/",
+      "company": "健合集团",
+      "industry": "营养健康",
+      "industries": [
+        "营养健康"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "ef8debe975a85e03"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官方人才招聘页，点击进入企业职位系统。",
+      "portal": "https://www.orion.cn/m/job/jobs.html",
+      "source": "https://www.orion.cn/m/job/jobs.html",
+      "company": "好丽友",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "ffe9d2bf488c279b"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网人才招聘，跨休闲食品与乳饮业务；需按具体职位确认工作地及毕业时间。",
+      "portal": "https://www.want-want.com/tw/hr/recruitment",
+      "source": "https://www.want-want.com/tw/hr/recruitment",
+      "company": "旺旺集团",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "2177a00d493df7a0"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。全球官方职位系统，筛选中国及Early Careers；不要使用2025旧专题报名当届校招。",
+      "portal": "https://www.mondelezinternational.com/careers/",
+      "source": "https://www.mondelezinternational.com/careers/",
+      "company": "亿滋",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "6b91ceebbf1a6b19"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。中国官网Work for Fonterra提供公众号招聘入口与简历邮箱 GCRecruit@fonterra.com。",
+      "portal": "https://www.fonterra.com/cn/en/contact-us.html",
+      "source": "https://www.fonterra.com/cn/en/contact-us.html",
+      "company": "恒天然",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "8292a369c961777d"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官方未来人才计划入口，食品加工与包装相关；筛选中国、专业及毕业年份。",
+      "portal": "https://www.tetrapak.com/zh-cn/about-tetra-pak/careers/our-roles/future-talent",
+      "source": "https://www.tetrapak.com/zh-cn/about-tetra-pak/careers/our-roles/future-talent",
+      "company": "利乐",
+      "industry": "食品装备与包装",
+      "industries": [
+        "食品装备与包装"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "1280957b5520f2fa"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。食品加工技术与设备业务；在当前职位中筛选实习或毕业生，排除无关工业业务。",
+      "portal": "https://www.buhlergroup.cn/global/zh/purpose-community/professionals.html",
+      "source": "https://www.buhlergroup.cn/global/zh/purpose-community/professionals.html",
+      "company": "布勒",
+      "industry": "食品装备与包装",
+      "industries": [
+        "食品装备与包装"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "5c4aa359d9446b9f"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。食品学院转发企业社会招聘渠道，列出 career@cti-cert.com；先确认是否接受应届生、再选择食品实验室。",
+      "portal": "https://spxy.jlnku.edu.cn/info/1048/4413.htm",
+      "source": "https://spxy.jlnku.edu.cn/info/1048/4413.htm",
+      "company": "华测检测",
+      "industry": "检测认证",
+      "industries": [
+        "检测认证"
+      ],
+      "kind": "portal",
+      "sourceType": "高校就业网（社招渠道）",
+      "checkedAt": "2026-09-11",
+      "id": "b85d2f019d213bc5"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "技术品管、生产管理",
+      "note": "武汉科技大学2027招聘页的技术品管与生产管理岗位明确接受食品类本科。优先使用此版：南开转载页标题写2027、正文仍写2026，未据该冲突版本确认届别。页面展示到期日不作为企业截止时间。",
+      "portal": "https://wustyjs.91wllm.cn/campus/view/id/1002967",
+      "source": "https://wustyjs.91wllm.cn/campus/view/id/1002967",
+      "company": "益客集团",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "江苏益客食品",
+        "益客食品"
+      ],
+      "id": "c927fe703ce9728f"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "食品研发、生物技术、检测化验、供应链",
+      "note": "页面同时包含2026夏招与2027届实习板块；这里只收录2027实习线索，页面写实习持续开放。需进入岗位确认剩余名额；2026夏招的7月10日截止时间不适用于此条。",
+      "portal": "https://campus.51job.com/cofco/about2.html",
+      "source": "https://campus.51job.com/cofco/about2.html",
+      "company": "中粮集团",
+      "industry": "食品综合",
+      "industries": [
+        "食品综合",
+        "粮油加工"
+      ],
+      "kind": "internship",
+      "sourceType": "企业招聘专题",
+      "checkedAt": "2026-09-11",
+      "id": "d39910b6b332b8db"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "生产储备干部（2027届实习生）",
+      "note": "平台职位注明2027届、大专及以上，食品、生物、化学、机械、自动化相关专业优先。未取得统一截止日期，进入职位页确认状态和地点。",
+      "portal": "https://www.zhaopin.com/jobdetail/CC463084220J40909213712.htm",
+      "source": "https://www.zhaopin.com/jobdetail/CC463084220J40909213712.htm",
+      "company": "劲仔食品",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "internship",
+      "sourceType": "招聘平台",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "劲仔食品集团股份有限公司"
+      ],
+      "id": "e484fd4385231bd7"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。饮料及乐事、桂格等食品业务；进入中国岗位或应届生项目筛选。不是乳品企业。",
+      "portal": "https://www.pepsicojobs.com/china/?lang=zh-CN",
+      "source": "https://www.pepsicojobs.com/china/?lang=zh-CN",
+      "company": "百事公司",
+      "industry": "非乳饮料",
+      "industries": [
+        "非乳饮料",
+        "休闲食品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "百事",
+        "PepsiCo"
+      ],
+      "id": "821336ee0fc9020b"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网人才页面，留意粮油、食品加工业务的校招入口。",
+      "portal": "https://yihaikerry.net/join",
+      "source": "https://yihaikerry.net/join",
+      "company": "益海嘉里",
+      "industry": "粮油加工",
+      "industries": [
+        "粮油加工"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "fb199590d15589f4"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。中国学生与毕业生招聘入口，按岗位确认专业和毕业时间。",
+      "portal": "https://jobs.cargill.com.cn/university",
+      "source": "https://jobs.cargill.com.cn/university",
+      "company": "嘉吉",
+      "industry": "粮油加工",
+      "industries": [
+        "粮油加工",
+        "原料配料",
+        "农牧与肉品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "7697ea688e6a9e42"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。全球岗位入口，筛选China及毕业生项目；海外岗位另核实资格。",
+      "portal": "https://www.bunge.com/careers",
+      "source": "https://www.bunge.com/careers",
+      "company": "邦吉",
+      "industry": "粮油加工",
+      "industries": [
+        "粮油加工"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "邦基",
+        "Bunge"
+      ],
+      "id": "05aca48be2e1dda9"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。可筛选地区及毕业生项目；集团也有贸易、非食品岗位。",
+      "portal": "https://www.ldc.com/cn/zh/careers/",
+      "source": "https://www.ldc.com/cn/zh/careers/",
+      "company": "路易达孚",
+      "industry": "粮油加工",
+      "industries": [
+        "粮油加工"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "0bf7f37f46e37928"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。粮油和营养配料相关业务；全球入口需筛选中国岗位。",
+      "portal": "https://www.adm.com/zh-Hans-CN/culture-and-careers/",
+      "source": "https://www.adm.com/zh-Hans-CN/culture-and-careers/",
+      "company": "ADM",
+      "industry": "粮油加工",
+      "industries": [
+        "粮油加工",
+        "原料配料"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "bb3ad25ff3b4a181"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网含招聘职位及新会工厂校园招聘。网上2026届春招旧公告不能算2027秋招。",
+      "portal": "https://china.lkk.com.cn/enterprise/zh-cn/jobs/recruitment/",
+      "source": "https://china.lkk.com.cn/enterprise/zh-cn/jobs/recruitment/",
+      "company": "李锦记",
+      "industry": "调味品",
+      "industries": [
+        "调味品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "3a916c54324eff0b"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。食品口味与营养配料；与嘉里建设、益海嘉里分别收录。",
+      "portal": "https://www.kerry.com/zh-cn/careers",
+      "source": "https://www.kerry.com/zh-cn/careers",
+      "company": "凯爱瑞 Kerry",
+      "industry": "原料配料",
+      "industries": [
+        "原料配料"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "凯爱瑞",
+        "Kerry"
+      ],
+      "id": "c43511abdfe20917"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。选择口味与健康、食品应用相关业务，排除纯香水业务岗位。",
+      "portal": "https://careers.givaudan.com/cn/zh/home",
+      "source": "https://careers.givaudan.com/cn/zh/home",
+      "company": "奇华顿",
+      "industry": "原料配料",
+      "industries": [
+        "原料配料"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "19c7807090031a10"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。营养、健康及食品配料方向；按业务和中国地区筛选。",
+      "portal": "https://www.dsm.com/content/dsm-firmenich/zh-cn/careers.html",
+      "source": "https://www.dsm.com/content/dsm-firmenich/zh-cn/careers.html",
+      "company": "帝斯曼芬美意",
+      "industry": "原料配料",
+      "industries": [
+        "原料配料",
+        "营养健康"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "ca040a64e56df150"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。食品配料、风味、营养与生物技术方向；全球入口需筛选中国。",
+      "portal": "https://www.iff.com/careers/",
+      "source": "https://www.iff.com/careers/",
+      "company": "IFF国际香料",
+      "industry": "原料配料",
+      "industries": [
+        "原料配料"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "IFF"
+      ],
+      "id": "c4839b4d276b9f58"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网加入我们入口；重点关注营养健康食品业务。",
+      "portal": "https://www.by-health.com/join/",
+      "source": "https://www.by-health.com/join/",
+      "company": "汤臣倍健",
+      "industry": "营养健康",
+      "industries": [
+        "营养健康"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "c2dd04c19aa33cc1"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。营养健康食品研发制造企业；平台中社会招聘与校招混排，需核实经验要求。",
+      "portal": "https://www.zhaopin.com/companydetail/jobs-CZ145233340/",
+      "source": "https://www.zhaopin.com/companydetail/jobs-CZ145233340/",
+      "company": "仙乐健康",
+      "industry": "营养健康",
+      "industries": [
+        "营养健康"
+      ],
+      "kind": "portal",
+      "sourceType": "招聘平台",
+      "checkedAt": "2026-09-11",
+      "id": "2150264f59b7fb96"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。企业校园招聘系统，按毕业年份筛选。",
+      "portal": "https://junlebaoruye.zhiye.com/campus",
+      "source": "https://junlebaoruye.zhiye.com/campus",
+      "company": "君乐宝",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "30a3f9d50d265b3f"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。企业招聘系统，按职位确认是否接受应届生。",
+      "portal": "https://brightdairy.cnstaff.com/m/search?systemjobtype=1",
+      "source": "https://brightdairy.cnstaff.com/m/search?systemjobtype=1",
+      "company": "光明乳业",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "aec5e7155c35ef60"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。企业校园招聘入口。",
+      "portal": "https://sanyuan.zhiye.com/campus",
+      "source": "https://sanyuan.zhiye.com/campus",
+      "company": "三元食品",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "7e09f82b24d44e78"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网含社会招聘、校园招聘及投递方式；页面包含历史项目介绍，不能视为当届开放公告。",
+      "portal": "https://www.yanjinpuzi.com/job.aspx",
+      "source": "https://www.yanjinpuzi.com/job.aspx",
+      "company": "盐津铺子",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "ec0f034cd5bf98bc"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网人才招聘；目前可见职位包含有经验岗位，需确认应届生资格。",
+      "portal": "https://www.ganyuanfood.com/rczp",
+      "source": "https://www.ganyuanfood.com/rczp",
+      "company": "甘源食品",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "62ea6be2b10dcb29"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。企业招聘平台页，按校园招聘或实习筛选。",
+      "portal": "https://www.zhaopin.com/companydetail/CC132020820.htm",
+      "source": "https://www.zhaopin.com/companydetail/CC132020820.htm",
+      "company": "三全食品",
+      "industry": "速冻与预制",
+      "industries": [
+        "速冻与预制"
+      ],
+      "kind": "portal",
+      "sourceType": "招聘平台",
+      "checkedAt": "2026-09-11",
+      "id": "d6f9334431ee2d2e"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。企业招聘系统；酿造、质量等方向需查看实际职位要求。",
+      "portal": "https://tsingtao.zhiye.com/Portal/Apply/Index",
+      "source": "https://tsingtao.zhiye.com/Portal/Apply/Index",
+      "company": "青岛啤酒",
+      "industry": "酒类",
+      "industries": [
+        "酒类"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "2beb6f4927e0e93e"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网加入我们页面提供招聘方式，邮箱 zhaopin@szeastroc.com。",
+      "portal": "https://www.szeastroc.com/culture/",
+      "source": "https://www.szeastroc.com/culture/",
+      "company": "东鹏饮料",
+      "industry": "非乳饮料",
+      "industries": [
+        "非乳饮料"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "4bfdb7b242c41e29"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。企业招聘系统；养殖、饲料与食品业务需按岗位区分。",
+      "portal": "https://newhope.zhiye.com/",
+      "source": "https://newhope.zhiye.com/",
+      "company": "新希望六和",
+      "industry": "农牧与肉品",
+      "industries": [
+        "农牧与肉品"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "id": "8437d4a85424b527"
+    },
+    {
+      "cat": "",
+      "date": "",
+      "roles": "",
+      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。选择食品、农产品、食品接触材料检测相关岗位；全球入口需筛选中国。",
+      "portal": "https://www.intertek.com/careers/",
+      "source": "https://www.intertek.com/careers/",
+      "company": "Intertek天祥",
+      "industry": "检测认证",
+      "industries": [
+        "检测认证"
+      ],
+      "kind": "portal",
+      "sourceType": "企业招聘入口",
+      "checkedAt": "2026-09-11",
+      "aliases": [
+        "Intertek",
+        "天祥集团"
+      ],
+      "id": "751d02dc4ae58860"
     }
   ]
 }

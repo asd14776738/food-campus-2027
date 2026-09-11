@@ -9,19 +9,15 @@ PUBLIC = ROOT / 'public'
 URL = 'https://raw.githubusercontent.com/xinyangli-326/2027qiuzhao/main/data.json'
 REPO = 'https://github.com/xinyangli-326/2027qiuzhao'
 LOCK = threading.Lock()
-GROUPS = [
- ('餐饮茶饮', r'麦当劳|塔斯汀|瑞幸|蜜雪|卡旺卡|巴奴|老乡鸡|百胜|肯德基|必胜客|海底捞|喜茶|奈雪|星巴克|茶百道|霸王茶姬'),
- ('乳业饮品', r'伊利|蒙牛|雀巢|达能|飞鹤|认养一头牛|农夫山泉|元气森林|加多宝|可口可乐|百事|八马茶|劲牌|金徽酒|百威|乳业|乳品|酒业|啤酒|饮料|饮品'),
- ('粮油调味', r'中粮|益海|金龙鱼|海天味业|安琪|梅花集团|嘉吉|邦吉|路易达孚|鲁花|李锦记|千禾|厨邦|粮油|调味|酵母'),
- ('食品零售', r'万辰|悦活里|佳农|盒马|叮咚买菜|朴朴|永辉|山姆'),
- ('食品制造', r'食品|温氏|海大集团|双汇|双胞胎|牧原|洽洽|卫龙|桃李|百草味|米旗|康师傅|玛氏|联合利华|良品铺子|三只松鼠|汤臣倍健|健合|旺旺|达利|盼盼|安井|三全|思念|亿滋|好丽友|统一企业|新希望|正大集团')]
+GROUPS = json.loads((ROOT/'taxonomy.json').read_text(encoding='utf-8'))
 
 def classify(row):
     for label, pattern in GROUPS:
         if re.search(pattern, row['company'], re.I): return label
     if row.get('cat') == '餐饮茶饮': return '餐饮茶饮'
-    if re.search(r'食品|农牧', row.get('cat', '')): return '食品制造'
-    if re.search(r'食品|乳制品|烘焙|肉制品|调味品|饮料|生鲜|饲料', row.get('note','')) and row.get('cat') in ['快消','零售','农业']: return '食品制造'
+    if re.search(r'农牧', row.get('cat', '')): return '农牧与肉品'
+    if re.search(r'食品', row.get('cat', '')): return '食品综合'
+    if re.search(r'食品|乳制品|烘焙|肉制品|调味品|饮料|生鲜|饲料', row.get('note','')) and row.get('cat') in ['快消','零售','农业']: return '食品综合'
     return None
 
 def read(name, default):
@@ -36,17 +32,41 @@ def write(name, value):
 
 def build(raw):
     if not isinstance(raw,dict) or not isinstance(raw.get('data'),list) or not raw['data']: raise ValueError('源数据格式异常，保留上次数据')
+    catalog=read_catalog()
+    aliases={name:item for item in catalog['companies'] for name in [item['company'],*item.get('aliases',[])]}
     rows={}
     for item in raw['data']:
         if not isinstance(item,dict) or not isinstance(item.get('company'),str): raise ValueError('源数据企业字段异常')
-        group=classify(item)
+        curated=aliases.get(item['company'].strip())
+        group=curated['industry'] if curated else classify(item)
         if not group: continue
         row={key:html.unescape(str(item.get(key,'') or '')) for key in ['company','cat','date','roles','note','portal','source']}
-        row['industry']=group
+        if curated: row['company']=curated['company']
+        row.update(industry=group,industries=curated.get('industries',[group]) if curated else [group],kind='upstream',sourceType='原项目收录')
         row['id']=hashlib.sha256(row['company'].strip().encode()).hexdigest()[:16]
         rows[row['id']]=row
     if not rows: raise ValueError('筛选结果为空，保留上次数据')
-    return {'source':REPO,'rev':raw.get('rev',''),'sourceUpdated':raw.get('updated',''),'syncedAt':datetime.now().astimezone().isoformat(timespec='seconds'),'rows':sorted(rows.values(),key=lambda x:x['date'],reverse=True)}
+    for item in catalog['companies']:
+        identifier=hashlib.sha256(item['company'].strip().encode()).hexdigest()[:16]
+        existing=rows.get(identifier)
+        if existing and (item['kind']=='portal' or (existing['date'] and existing['date']>item['checkedAt'])):
+            existing.update(catalogSource=item['source'],catalogNote=item['note'],catalogCheckedAt=item['checkedAt'])
+            continue
+        rows[identifier]={**{key:'' for key in ['cat','date','roles','note','portal','source']},**item,'id':identifier}
+    return {'source':REPO,'rev':raw.get('rev',''),'sourceUpdated':raw.get('updated',''),'syncedAt':datetime.now().astimezone().isoformat(timespec='seconds'),'catalogUpdated':catalog['updated'],'websites':catalog['websites'],'rows':sorted(rows.values(),key=lambda x:x['date'],reverse=True)}
+
+def read_catalog():
+    path=ROOT/'catalog.json'
+    catalog=json.loads(path.read_text(encoding='utf-8'))
+    names=set()
+    valid_industries={label for label,_ in GROUPS}
+    for item in catalog['companies']:
+        if not item.get('company') or item.get('kind') not in ['portal','announcement','internship'] or not item.get('source') or not item.get('portal'): raise ValueError('补充目录企业格式异常')
+        for name in [item['company'],*item.get('aliases',[])]:
+            if name in names: raise ValueError('补充目录企业别名重复：'+name)
+            names.add(name)
+        if item['industry'] not in valid_industries or any(i not in valid_industries for i in item.get('industries',[])): raise ValueError('补充目录行业分类无效')
+    return catalog
 
 def update(seed=False):
     with LOCK:

@@ -17,8 +17,9 @@ def build_site(refresh=False):
     page=page.replace('<script src="/app.js" defer></script>','<script src="./cloud-config.js" defer></script><script src="./cloud-adapter.js" defer></script><script src="./app.js" defer></script>')
     page=page.replace('每日同步','每分钟检查')
     (target/'index.html').write_text(page,encoding='utf-8')
-    (target/'cloud-config.js').write_text('window.FOOD_CLOUD='+json.dumps({'url':server.URL,'source':server.REPO,'groups':server.GROUPS},ensure_ascii=False)+';',encoding='utf-8')
+    (target/'cloud-config.js').write_text('window.FOOD_CLOUD='+json.dumps({'url':server.URL,'source':server.REPO,'groups':server.GROUPS,'catalog':server.read_catalog()},ensure_ascii=False)+';',encoding='utf-8')
     (target/'data.json').write_text(json.dumps(snapshot,ensure_ascii=False,indent=2),encoding='utf-8')
+    (target/'catalog.json').write_text(json.dumps(server.read_catalog(),ensure_ascii=False),encoding='utf-8')
     (target/'.nojekyll').touch()
     print(json.dumps({'count':len(snapshot['rows']),'revision':snapshot['rev'],'output':'dist'},ensure_ascii=False))
 
