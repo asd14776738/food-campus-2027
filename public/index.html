@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>食业新程 · 2027食品行业校招</title><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body><header><a class="brand" href="/">食业新程 <small>2027</small></a><nav aria-label="主导航"><button class="active" data-view="all">校招信息</button><button data-view="mine">我的投递</button><button id="about">数据说明</button></nav><span class="daily">每日同步</span></header>
+<main><section class="hero"><div><h1>2027 食品行业校招</h1><p>从食品研发到供应链，找到你的下一程。</p></div><button class="primary" id="update">立即更新</button></section>
+<section class="metrics" aria-label="招聘概览"><div>收录企业<strong id="total">—</strong></div><div>研发与品控<strong id="research">—</strong></div><div>我的投递<strong id="applied">—</strong></div></section>
+<section class="toolbar" aria-label="筛选"><input id="search" aria-label="搜索公司、岗位、关键词" placeholder="搜索公司、岗位、关键词"><select id="role" aria-label="岗位方向"><option value="">全部岗位方向</option><option>研发与品控</option><option>生产与工艺</option><option>供应链与采购</option><option>市场与销售</option><option>管培生</option></select><button id="backup">导出备份</button></section>
+<div class="tabs" id="industries" aria-label="行业筛选"></div>
+<div class="list-meta"><span id="results" role="status">正在加载招聘信息…</span><label><input type="checkbox" id="favorites"> 只看收藏</label></div>
+<div class="table-wrap"><table><thead><tr><th>企业</th><th>岗位方向</th><th>开启时间</th><th>招聘入口</th><th>投递进度</th><th>收藏</th></tr></thead><tbody id="rows"></tbody></table></div><p id="empty" hidden>没有符合条件的企业，试试其他关键词或筛选条件。</p>
+<footer><div>来源：<a href="https://github.com/xinyangli-326/2027qiuzhao" target="_blank" rel="noopener noreferrer">2027qiuzhao</a> · 招聘状态请以官方公告为准。<p id="sync" role="status"></p></div><div class="footer-actions"><button id="csv">导出 CSV</button><button id="restore">恢复备份</button><input type="file" id="restore-file" accept="application/json" hidden></div></footer></main>
+<dialog id="dialog"><button id="close" class="close" aria-label="关闭">关闭</button><h2 id="dialog-title"></h2><div id="dialog-body"></div></dialog><div id="toast" role="status" hidden></div></body></html>
