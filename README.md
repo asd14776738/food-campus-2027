@@ -1,5 +1,7 @@
 # 食业新程 · 2027食品行业校招
 
+网站：[asd14776738.github.io/food-campus-2027](https://asd14776738.github.io/food-campus-2027/) · [自动更新运行记录](https://github.com/asd14776738/food-campus-2027/actions)
+
 在线部署：GitHub Pages。源项目更新后，已打开的网页每分钟直接检查一次；GitHub Actions 每5分钟计划重新构建并发布最新数据快照。GitHub调度、网络缓存和上游人工维护可能造成延迟，不保证秒级更新。在线服务不依赖本地电脑开机。
 
 在线与本地的个人记录按浏览器网站地址分别保存。迁移时在本地“导出备份”，再到在线网站“恢复备份”。任何个人进度均不会写入GitHub仓库。
@@ -66,8 +68,7 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\update.ps1
 - `server.log` / `server-error.log`：启动输出与访问日志。
 - `start.ps1` / `update.ps1`：启动和更新入口。
 - `install-startup.ps1`：重新安装当前用户登录启动快捷方式。
-- `test_server.py` / `verify.cjs`：数据可靠性测试与浏览器验证脚本。
-- `DESIGN.md` / `design-concept.png`：设计参考和验证说明。
+- `test_server.py` / `verify_cloud.cjs`：数据可靠性测试与静态站点浏览器验证脚本。
 
 ## 故障处理与停止
 
@@ -80,6 +81,6 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\update.ps1
 
 ## 验证
 
-后端测试：`python test_server.py`。浏览器验证：`node verify.cjs`，当前脚本使用本机预装的Playwright与Chromium路径；换电脑只需调整脚本中的两个工具路径，网站运行不依赖它们。
+后端测试：`python test_server.py`。浏览器验证：先执行 `python build_site.py --refresh`，在项目目录运行 `python -m http.server 2028 --bind 127.0.0.1`，然后执行 `node verify_cloud.cjs`（需另行安装Playwright；也可通过环境变量指定已有运行库）。网站本身不依赖Playwright。
 
 测试覆盖筛选准确性、稳定ID、去重、坏数据与断网保留缓存、搜索、收藏、投递日期、备注、JSON备份恢复、错误备份隔离、CSV、手动同步、手机视口及浏览器错误检查。
