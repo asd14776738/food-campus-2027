@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "companies": [
     {
       "company": "嘉士伯中国",
@@ -812,6 +812,43 @@
         "Intertek",
         "天祥集团"
       ]
+    },
+    {
+      "company": "雀巢",
+      "industry": "食品综合",
+      "industries": [
+        "食品综合",
+        "非乳饮料",
+        "乳制品",
+        "营养健康",
+        "宠物食品",
+        "调味品",
+        "休闲食品"
+      ],
+      "kind": "announcement",
+      "date": "2026-09-03",
+      "roles": "2027管培生：研发、技术、供应链、市场营销等（本科及以上，具体岗位专业见官网）",
+      "portal": "https://app.mokahr.com/campus-recruitment/nestlegcr",
+      "source": "https://job.hust.edu.cn/zpinfo1/2412001.htm",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-12",
+      "deadline": "2026-11-30",
+      "note": "公告面向2026及2027届本科及以上应届生，每人限投2岗。业务包含咖啡、奶品、宠物食品、营养品、太太乐、徐福记等；食品专业须逐岗核对，未假定所有岗位均接受。"
+    },
+    {
+      "company": "伊利",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "announcement",
+      "date": "2026-09-10",
+      "roles": "2027冷饮天津生产培训生（食品、生物等专业优先）；集团其他岗位见官网",
+      "portal": "https://yili.hotjob.cn/wt/yili/web/mobMobileWebsite/index/positionsListN1",
+      "source": "https://jy.tust.edu.cn/correcruit/content/id/46534.html",
+      "sourceType": "高校就业网＋企业招聘官网",
+      "checkedAt": "2026-09-12",
+      "note": "天津科技大学9月10日公告：食品、生物等专业优先，可接受倒班。学历栏写硕士，正文学历表述存在歧义，请以企业岗位详情为准。官网同时有2026及2027职位，务必筛选2027届；未公布集团统一截止日。"
     }
   ],
   "websites": [

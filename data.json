@@ -1,9 +1,9 @@
 {
   "source": "https://github.com/xinyangli-326/2027qiuzhao",
-  "rev": "20260910-e",
+  "rev": "20260911-a",
   "sourceUpdated": "2026-09-10",
-  "syncedAt": "2026-09-11T13:55:28+08:00",
-  "catalogUpdated": "2026-09-11",
+  "syncedAt": "2026-09-12T13:35:55+08:00",
+  "catalogUpdated": "2026-09-12",
   "websites": [
     {
       "name": "食品人才中心（食品伙伴网）",
@@ -175,6 +175,23 @@
     }
   ],
   "rows": [
+    {
+      "cat": "",
+      "date": "2026-09-10",
+      "roles": "2027冷饮天津生产培训生（食品、生物等专业优先）；集团其他岗位见官网",
+      "note": "天津科技大学9月10日公告：食品、生物等专业优先，可接受倒班。学历栏写硕士，正文学历表述存在歧义，请以企业岗位详情为准。官网同时有2026及2027职位，务必筛选2027届；未公布集团统一截止日。",
+      "portal": "https://yili.hotjob.cn/wt/yili/web/mobMobileWebsite/index/positionsListN1",
+      "source": "https://jy.tust.edu.cn/correcruit/content/id/46534.html",
+      "company": "伊利",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网＋企业招聘官网",
+      "checkedAt": "2026-09-12",
+      "id": "ae51148ea3a6405d"
+    },
     {
       "cat": "",
       "date": "2026-09-09",
@@ -375,19 +392,27 @@
       "id": "14d85a7f047283dd"
     },
     {
-      "company": "雀巢",
-      "cat": "快消",
+      "cat": "",
       "date": "2026-09-03",
-      "roles": "管培生（市场营销、销售、跨境电商、供应链、研发、财务、人力资源等）",
-      "note": "9月3日官宣启动，每人限投2个岗位，投递截止11月30日",
+      "roles": "2027管培生：研发、技术、供应链、市场营销等（本科及以上，具体岗位专业见官网）",
+      "note": "公告面向2026及2027届本科及以上应届生，每人限投2岗。业务包含咖啡、奶品、宠物食品、营养品、太太乐、徐福记等；食品专业须逐岗核对，未假定所有岗位均接受。",
       "portal": "https://app.mokahr.com/campus-recruitment/nestlegcr",
-      "source": "",
+      "source": "https://job.hust.edu.cn/zpinfo1/2412001.htm",
+      "company": "雀巢",
       "industry": "食品综合",
       "industries": [
-        "食品综合"
+        "食品综合",
+        "非乳饮料",
+        "乳制品",
+        "营养健康",
+        "宠物食品",
+        "调味品",
+        "休闲食品"
       ],
-      "kind": "upstream",
-      "sourceType": "原项目收录",
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-12",
+      "deadline": "2026-11-30",
       "id": "c8611dbfbcfe0bed"
     },
     {
@@ -933,22 +958,6 @@
       "kind": "upstream",
       "sourceType": "原项目收录",
       "id": "8f2042eab9d15347"
-    },
-    {
-      "company": "伊利",
-      "cat": "快消",
-      "date": "2026-08-12",
-      "roles": "销售培训生、市场营销、电商运营（各事业部陆续开放）",
-      "note": "液态奶等事业部8月中旬起陆续开放；流程含AI面试、网测",
-      "portal": "https://www.hotjob.cn/wt/yili/mobweb/recruit/eleySchool",
-      "source": "",
-      "industry": "乳制品",
-      "industries": [
-        "乳制品"
-      ],
-      "kind": "upstream",
-      "sourceType": "原项目收录",
-      "id": "ae51148ea3a6405d"
     },
     {
       "company": "卡旺卡",
