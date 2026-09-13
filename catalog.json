@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "companies": [
     {
       "company": "嘉士伯中国",
@@ -468,16 +468,17 @@
       "company": "益海嘉里",
       "industry": "粮油加工",
       "industries": [
-        "粮油加工"
+        "粮油加工",
+        "原料配料"
       ],
-      "kind": "portal",
-      "date": "",
-      "roles": "",
-      "portal": "https://yihaikerry.net/join",
-      "source": "https://yihaikerry.net/join",
-      "sourceType": "企业招聘入口",
-      "checkedAt": "2026-09-11",
-      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。官网人才页面，留意粮油、食品加工业务的校招入口。"
+      "kind": "announcement",
+      "date": "2026-09-09",
+      "roles": "2027届本科及以上：研发、生产、品控、储运等；上海总部食品工业研发与产品储备生",
+      "portal": "https://www.hotjob.cn/wt/YihaiKerry/web/index/campus",
+      "source": "https://spxy.henau.edu.cn/a/zhaoshengjiuye/jiuyexinxi/20260909/5069.html",
+      "sourceType": "高校食品学院＋企业招聘官网",
+      "checkedAt": "2026-09-13",
+      "note": "河南农业大学食品学院简章明确面向统招2027届本科及以上毕业生。企业官网9月9日发布食品工业研发储备生016023、产品储备生016024等。食品原辅料业务支持原料配料标签；具体专业要求须逐岗核对，公告未给出统一截止日。"
     },
     {
       "company": "嘉吉",
