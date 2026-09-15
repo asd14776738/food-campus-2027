@@ -1,9 +1,9 @@
 {
   "source": "https://github.com/xinyangli-326/2027qiuzhao",
-  "rev": "20260913-d",
+  "rev": "20260914-a",
   "sourceUpdated": "2026-09-13",
-  "syncedAt": "2026-09-14T09:12:42+08:00",
-  "catalogUpdated": "2026-09-14",
+  "syncedAt": "2026-09-15T09:05:52+08:00",
+  "catalogUpdated": "2026-09-15",
   "websites": [
     {
       "name": "食品人才中心（食品伙伴网）",
@@ -530,6 +530,22 @@
       "id": "d1aae59ceaec8fff"
     },
     {
+      "company": "三只松鼠",
+      "cat": "农牧/食品",
+      "date": "2026-09-01",
+      "roles": "产品、职能、供应链、技术、运营、门店、创意等方向",
+      "note": "三只松鼠「松鼠招募」2027届校园招聘；官方投递入口见“投递入口”列。",
+      "portal": "http://www.3songshu.com/sjob/xjob.html",
+      "source": "",
+      "industry": "休闲食品",
+      "industries": [
+        "休闲食品"
+      ],
+      "kind": "upstream",
+      "sourceType": "原项目收录",
+      "id": "331d12527bc88a57"
+    },
+    {
       "company": "东方希望",
       "cat": "农牧/食品",
       "date": "2026-09-01",
@@ -1030,19 +1046,20 @@
       "id": "16f0d6d49e86fb77"
     },
     {
+      "cat": "",
+      "date": "2026-08-19",
+      "roles": "2027青马计划：零售管培生、职能定向生（产研/技术/职能）；具体专业要求见岗位页",
+      "note": "广州大学正文面向2026年1月至2027年7月毕业生，安排3个月实习双选后确认offer；零售初期在深圳、泉州，职能在深圳、安溪、武夷山。官方专题搜索摘要的毕业范围到2027年12月，与高校版本有差异，请以投递页最新要求为准。专题正文抓取失败，可用八马茶业招聘公众号—校园招聘投递；未列全专业要求，不假定食品专业能投全部岗位。",
+      "portal": "https://campus.51job.com/bamatea/recruitment/",
+      "source": "https://jy.gzhu.edu.cn/web/index/jobs-brief-detail?id=SPUXSVN",
       "company": "八马茶业",
-      "cat": "快消",
-      "date": "2026-08-20",
-      "roles": "技术类",
-      "note": "八马茶业27秋招 八马茶业已开启2027届秋季校园招聘，具体岗位信息尚未公布，请持续关注官方渠道。 招聘对象 - 2027届应届毕业生（具体学历要求待岗位发布后确认）",
-      "portal": "https://www.bamatea.com/",
-      "source": "",
       "industry": "茶叶",
       "industries": [
         "茶叶"
       ],
-      "kind": "upstream",
-      "sourceType": "原项目收录",
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-15",
       "id": "237e8facb65a1c1d"
     },
     {
