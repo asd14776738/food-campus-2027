@@ -2,8 +2,8 @@
   "source": "https://github.com/xinyangli-326/2027qiuzhao",
   "rev": "20260914-a",
   "sourceUpdated": "2026-09-13",
-  "syncedAt": "2026-09-15T09:05:52+08:00",
-  "catalogUpdated": "2026-09-15",
+  "syncedAt": "2026-09-16T12:51:55+08:00",
+  "catalogUpdated": "2026-09-16",
   "websites": [
     {
       "name": "食品人才中心（食品伙伴网）",
@@ -212,6 +212,23 @@
     {
       "cat": "",
       "date": "2026-09-09",
+      "roles": "F星管培生：食品、生物、化学、医学、机械、电气、农业、畜牧等相关专业；第一年黑龙江",
+      "note": "天津科技大学公告正文明确2026及2027届，毕业时间2026年1月至2027年7月。页面学历栏为本科，正文写本科以上，具体学历口径以企业职位页为准。第一年工作地黑龙江，不将页面概览中的北京误作首年工作地。未公布统一投递截止日。",
+      "portal": "https://feihe.hotjob.cn/",
+      "source": "https://jy.tust.edu.cn/correcruit/content/id/46499.html",
+      "company": "飞鹤",
+      "industry": "乳制品",
+      "industries": [
+        "乳制品"
+      ],
+      "kind": "announcement",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-16",
+      "id": "64f02e527061c576"
+    },
+    {
+      "cat": "",
+      "date": "2026-09-09",
       "roles": "2027届本科及以上：研发、生产、品控、储运等；上海总部食品工业研发与产品储备生",
       "note": "河南农业大学食品学院简章明确面向统招2027届本科及以上毕业生。企业官网9月9日发布食品工业研发储备生016023、产品储备生016024等。食品原辅料业务支持原料配料标签；具体专业要求须逐岗核对，公告未给出统一截止日。",
       "portal": "https://www.hotjob.cn/wt/YihaiKerry/web/index/campus",
@@ -327,22 +344,6 @@
       "kind": "upstream",
       "sourceType": "原项目收录",
       "id": "d1559924604bf390"
-    },
-    {
-      "company": "飞鹤",
-      "cat": "快消",
-      "date": "2026-09-05",
-      "roles": "F星计划、中国飞鹤、管培生、食品",
-      "note": "中国飞鹤2027届校园招聘正式启动，推出F星计划，面向2026-2027届国内外毕业生，招聘食品、机械、电气、农业等专业人才。飞鹤始建于1962年，拥有14个智能工厂和15个自有牧场，为入选者提供系统化培养与专属晋升路径，打造集团未来中坚力量。",
-      "portal": "https://www.feihe.com/about/joinUs/",
-      "source": "",
-      "industry": "乳制品",
-      "industries": [
-        "乳制品"
-      ],
-      "kind": "upstream",
-      "sourceType": "原项目收录",
-      "id": "64f02e527061c576"
     },
     {
       "cat": "",
