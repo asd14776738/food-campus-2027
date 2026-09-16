@@ -1068,6 +1068,20 @@
       "url": "https://github.com/xinyangli-326/2027qiuzhao",
       "note": "原始实时同步源；与本站补充目录合并去重。",
       "checkedAt": "2026-09-11"
+    },
+    {
+      "name": "河南工业大学粮油食品学院就业信息",
+      "category": "高校就业",
+      "url": "https://lysp.haut.edu.cn/list_202407.jsp?urltype=tree.TreeTempUrl&wbtreeid=1120",
+      "note": "用户指定重点来源：粮油加工、粮食储藏、食品研发、粮机装备等。学院官方就业栏目；当前含2026届历史公告，核对届别、截止日期与真实投递入口后再收录2027机会。",
+      "checkedAt": "2026-09-16"
+    },
+    {
+      "name": "河南工业大学就业信息网",
+      "category": "高校就业",
+      "url": "https://job.haut.edu.cn/",
+      "note": "校级官方招聘简章、宣讲会和岗位信息，与粮油食品学院栏目交叉核验；优先关注食品及粮油产业链，平台展示到期日不直接当作企业截止日。",
+      "checkedAt": "2026-09-16"
     }
   ]
 }
