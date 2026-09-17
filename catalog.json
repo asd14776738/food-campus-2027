@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "companies": [
     {
       "company": "嘉士伯中国",
@@ -255,14 +255,15 @@
       "industries": [
         "休闲食品"
       ],
-      "kind": "portal",
-      "date": "",
-      "roles": "",
-      "portal": "https://www.mondelezinternational.com/careers/",
-      "source": "https://www.mondelezinternational.com/careers/",
-      "sourceType": "企业招聘入口",
-      "checkedAt": "2026-09-11",
-      "note": "招聘入口已收集，尚未确认2027届当前开放岗位。全球官方职位系统，筛选中国及Early Careers；不要使用2025旧专题报名当届校招。"
+      "kind": "announcement",
+      "date": "2026-09-11",
+      "roles": "2027 Taste The Future管培生：供应链、销售、市场、人力资源；公告专业不限",
+      "portal": "https://l.moseeker.com/s/f-un",
+      "source": "https://career.nankai.edu.cn/correcruit/content/id/118588.html",
+      "sourceType": "高校就业网",
+      "checkedAt": "2026-09-17",
+      "note": "南开大学公告标题及正文明确2027项目，本科/硕士，专业不限；具体岗位要求以网申为准。9月9日至11月30日网申，部分岗位招满提前关闭。供应链第一岗上海/北京/苏州/广州；销售接受大区内轮岗，人力接受全国轮岗。",
+      "deadline": "2026-11-30"
     },
     {
       "company": "恒天然",
@@ -898,6 +899,21 @@
       "sourceType": "高校就业网",
       "checkedAt": "2026-09-16",
       "note": "天津科技大学公告正文明确2026及2027届，毕业时间2026年1月至2027年7月。页面学历栏为本科，正文写本科以上，具体学历口径以企业职位页为准。第一年工作地黑龙江，不将页面概览中的北京误作首年工作地。未公布统一投递截止日。"
+    },
+    {
+      "company": "加多宝",
+      "industry": "非乳饮料",
+      "industries": [
+        "非乳饮料"
+      ],
+      "kind": "announcement",
+      "date": "2026-09-10",
+      "roles": "2027校招质量品控岗：食品工程、生物工程等本科及以上；另有营销及生产实习",
+      "portal": "https://job.haut.edu.cn/module/position_brief_detail/id-114139/nid-8782",
+      "source": "https://job.haut.edu.cn/module/position_brief_detail/id-114139/nid-8782",
+      "sourceType": "河南工业大学就业网",
+      "checkedAt": "2026-09-17",
+      "note": "质量品控岗要求接受倒班，生产工作地含河南漯河、北京及其他基地；生产岗提供食宿。实习面向2027届及其他在读生，至少2个月。请打开原公告投递简历栏目扫码网申；校招与实习按具体职位选择。平台到期日2027-05-01不作为企业截止日。凉茶饮料和矿泉水归非乳饮料。"
     }
   ],
   "websites": [
